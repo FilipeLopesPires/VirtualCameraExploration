@@ -8,6 +8,10 @@ Unreal Engine project containing experiments with virtual cameras using live lin
 1. Go to Project Settings > Engine > Rendering > Default Settings > Advanced, and set the "Frame Buffer Pixel Format" to "8bit RGBA".
 2. Go to Project Settings > Plugins > UDP Messaging > Transport, and set the "Unicast Endpoint" to your computer's IP address plus a ":0" at the end.
 3. Go to Project Settings > Plugins > UDP Messaging > Transport > Static Endpoints, and set two new endpoints, one containing your computer's IP address and the other your phone's IP address.
+### Phone Configuration
+
+1. Install [Unreal VCam](https://apps.apple.com/us/app/unreal-vcam/id1547309663) on your phone.
+2. Open the app, create a new connection and provide your computer's IP address.
 
 ## Credits
 
