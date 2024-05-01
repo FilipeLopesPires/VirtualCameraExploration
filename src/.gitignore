@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Rural Australia asset pack
 Content/RuralAustralia/*
+
+# Others
+Content/Help.url
