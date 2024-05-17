@@ -1,6 +1,10 @@
 # Virtual Camera Exploration
 Unreal Engine project containing experiments with virtual cameras using live link.
 
+<p float="left">
+  <img src="https://github.com/FilipePires98/VirtualCameraExploration/blob/main/recordings/Record_09.gif" width="720px">
+</p>
+
 ## Instructions
 
 ### Initial Configuration
