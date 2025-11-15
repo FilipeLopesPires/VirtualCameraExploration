@@ -30,4 +30,4 @@ It uses the following plugins:
 
 The project also benefits from the use of Andrew S. Hamilton's [Rural Australia Asset Pack](https://www.unrealengine.com/marketplace/en-US/product/rural-australia) for the environment.
 
-For further information, please contact me at fsnap@protonmail.com.
+For further information, feel free to reach out.
